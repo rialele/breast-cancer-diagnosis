@@ -1,4 +1,5 @@
-# breast-cancer-diagnosis
+# Breast Cancer Prediction using Optimized Machine 
+Learning Classifiers and Data Balancing Techniques
 
 The most prevalent malignancy in females and 
 the second greatest reason for the loss of life from cancer is 
