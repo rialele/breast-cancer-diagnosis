@@ -22,11 +22,5 @@ overall better result.
 The performance evaluation parameters for the designed model are specificity, accuracy, sensitivity, F1 
 score, precision, recall and Area Under the Curve(AUC). 
 
-#### Results:
-The research concluded that the Support Vector Machine 
-Algorithm proved to be the most effective model which fit our 
-dataset with an Accuracy of 95.8% followed by KNN with an 
-accuracy of 95.3%. 
-
 #### Documentation:
 The code.ipynb file contains the entire code along with comments.
