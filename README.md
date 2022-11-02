@@ -1,4 +1,4 @@
-# Breast Cancer Prediction using Optimized Machine Learning Classifiers and Data Balancing Techniques
+# Breast Cancer Diagnosis
 
 #### Obejctive:
 The most prevalent malignancy in females and 
