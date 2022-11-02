@@ -18,8 +18,7 @@ selection. These models have been trained on the Wisconsin
 Diagnostic Breast Cancer (WDBC) Dataset. 
 
 #### Data Balancing: 
-Furthermore,  
-dataset was balanced using both Undersampling and SMOTE 
+Furthermore, dataset was balanced using both Undersampling and SMOTE 
 from which we concluded that Undersampling gave us an 
 overall better result. 
 
