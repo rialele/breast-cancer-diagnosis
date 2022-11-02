@@ -18,7 +18,7 @@ selection. These models have been trained on the Wisconsin
 Diagnostic Breast Cancer (WDBC) Dataset. 
 
 #### Data Balancing: 
-Furthermore, dataset was balanced using both Undersampling and SMOTE. Undersampling gave us an 
+Furthermore, dataset was balanced using both Undersampling and SMOTE. Undersampling gave an 
 overall better result. 
 
 #### Evaluation: 
@@ -32,4 +32,4 @@ dataset with an Accuracy of 95.8% followed by KNN with an
 accuracy of 95.3%. 
 
 #### Documentation:
-The code.ipynb file contains the entire code along with comments, for viewers to understand each step.
+The code.ipynb file contains the entire code along with comments.
