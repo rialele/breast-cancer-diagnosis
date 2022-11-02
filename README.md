@@ -8,6 +8,6 @@ Random Forest (RF), Artificial Neural Network (ANN), and
 Naive Bayes (NB) in tandem with the 
 Random Forest Feature Importance Method for feature
 selection. These models have been trained on the Wisconsin 
-Diagnostic Breast Cancer (WDBC) Dataset. 
+Diagnostic Breast Cancer (WDBC) dataset. 
 
 The code.ipynb file contains the entire code along with comments.
