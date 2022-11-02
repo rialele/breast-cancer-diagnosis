@@ -1,7 +1,7 @@
 # Breast Cancer Diagnosis
 
 #### Overview:
-The paper is aimed to 
+The project is aimed to 
 incorporate several machine learning (ML) algorithms, 
 including Support Vector Machine (SVM), Logistic 
 Regression, k-Nearest Neighbour (KNN), Decision Tree (DT), 
