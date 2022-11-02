@@ -10,4 +10,4 @@ Random Forest Feature Importance Method for feature
 selection. These models have been trained on the Wisconsin 
 Diagnostic Breast Cancer (WDBC) dataset. 
 
-The code.ipynb file contains the entire code along with comments.
+
