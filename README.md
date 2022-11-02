@@ -1,5 +1,8 @@
 # Breast Cancer Diagnosis
 
+#### Objective:
+The most prevalent malignancy in females and the second greatest reason for the loss of life from cancer is Breast Cancer. Hence, a computer assisted detection (CAD) system that uses a machine learning technique to give reliable breast cancer diagnosis is required.
+
 #### Overview:
 The project is aimed to 
 incorporate several machine learning (ML) algorithms, 
